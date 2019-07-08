@@ -8,5 +8,6 @@ public class SomeManager : MonoBehaviour
     private void Start()
     {
         Debug.Log("Some Debug");
+        
     }
 }
